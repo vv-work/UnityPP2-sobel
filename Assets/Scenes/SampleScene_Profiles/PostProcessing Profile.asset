@@ -18,22 +18,22 @@ MonoBehaviour:
     value: 1
   thickness:
     overrideState: 1
-    value: 1
+    value: 2.1
   depthMultiplier:
     overrideState: 1
-    value: 1
+    value: 0.62
   depthBias:
     overrideState: 1
     value: 10
   normalMultiplier:
     overrideState: 1
-    value: 1
+    value: 0.95
   normalBias:
     overrideState: 1
-    value: 1
+    value: 4.99
   color:
     overrideState: 1
-    value: {r: 0, g: 0, b: 0, a: 1}
+    value: {r: 0.6698113, g: 0.3327993, b: 0.3327993, a: 1}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
